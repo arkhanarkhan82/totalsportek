@@ -4,4 +4,5 @@ Allow: /
 
 # Location of the sitemap file
 
-Sitemap: https://hesgoal.guru/sitemap.xml
+Sitemap: https://totalsportek.top/sitemap.xml
+
