@@ -163,10 +163,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function updatePageMeta() {
     const sportName = state.sport === 'all' ? 'Full Sports' : state.sport.charAt(0).toUpperCase() + state.sport.slice(1);
-    const title = `Hesgoal ${sportName} Schedule`;
+    const title = `Totalsportek ${sportName} Schedule`;
     pageTitle.textContent = title;
     pageHeading.textContent = title;
-    pageDescription.textContent = `See the ${sportName} schedule on Hesgoal and find your favorite match.`;
+    pageDescription.textContent = `See the ${sportName} schedule on Totalsportek and find your favorite match.`;
   }
   
   function updateActiveButtons() {
@@ -277,4 +277,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
   initializePage();
 });
+
 
