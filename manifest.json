@@ -1,6 +1,6 @@
 {
-  "name": "Hesgoal",
-  "short_name": "Hesgoal",
+  "name": "Totalsportek",
+  "short_name": "Totalsportek",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -23,3 +23,4 @@
 
 
 }
+
