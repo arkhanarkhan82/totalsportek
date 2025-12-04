@@ -127,12 +127,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://totalsportek.top/Matchinformation/?id=MTc2NDgxMzM2MF9Gb290YmFsbF9YZWxhanUgLSBBbGFqdWVsZW5zZQ==</loc>
-    <lastmod>2025-12-04</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://totalsportek.top/Matchinformation/?id=MTc2NDgxMzYwMF9CYXNrZXRiYWxsX0JZVSAtIENhbGlmb3JuaWEgQmFwdGlzdA==</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>always</changefreq>
@@ -350,6 +344,12 @@
   </url>
   <url>
     <loc>https://totalsportek.top/Matchinformation/?id=MTc2NDgyMjYwMF9UZW5uaXNfTWFyaWEgVG9tYSAtIEV2YSBCdXNhYWQ=</loc>
+    <lastmod>2025-12-04</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://totalsportek.top/Matchinformation/?id=MTc2NDgyMjYwMF9CYWRtaW50b25fWWF0YXdlZW1pbiBLZXRrbGllbmcgLSBDaW91LVRvbmcgVHVuZw==</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
